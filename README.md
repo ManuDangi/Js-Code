@@ -3,3 +3,6 @@ The Color Changer is a simple web application that allows users to dynamically c
 
 MY SECOUD PROJECT :-
 This project is a simple digital watch that displays the current time. The watch is designed to be user-friendly and provides an accurate and real-time display of hours, minutes, and seconds. This project is ideal for beginners looking to learn more about real-time data display and time-related functionalities.
+
+Guess the Number Game :- 
+This is a command-line game where the player tries to guess a randomly generated number within a specific range. The computer provides feedback on whether the guess is too high, too low, or correct.
